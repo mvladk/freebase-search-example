@@ -1,6 +1,9 @@
 # Freebase Search Example
 A single page jQuery Web Application.
 
+Example:
+http://mvladk.github.io/freebase-search-example/index.html
+
 As the user starts typing in words, the application should query Freebase (using [Search Service](http://wiki.freebase.com/wiki/ApiSearch) ) and get various results.
 Each result, then, should form a box on the page. Each box contains a title, a category, an image, some description about the result.
 The client fetches description & image from [Freebase' Text](http://wiki.freebase.com/wiki/ApiText) & [Image Services](http://wiki.freebase.com/wiki/ApiImage).
